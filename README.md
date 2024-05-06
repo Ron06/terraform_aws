@@ -17,3 +17,4 @@ Before you begin, ensure you have the following installed:
 - Terraform
 - AWS CLI
 - AWS account credentials configured
+- VS Code
